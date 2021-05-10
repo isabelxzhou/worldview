@@ -1,0 +1,50 @@
+{
+  "appName": {
+    "message": "おだやかTwitter",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "この拡張機能はTwitterのタイムラインからトレンド情報を隠して、あなたの心を穏やかにしてくれます。",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "おだやかTwitter",
+    "description": "The title of the browser action button"
+  },
+  "titleIsExploreHidden": {
+    "message": "「話題を検索」タブを隠す"
+  },
+  "titleIsTrendsHidden": {
+    "message": "おすすめトレンド、ユーザーを隠す"
+  },
+  "titleIsReactionNumberHidden": {
+    "message": "ツイートへのリプライ数、リツイート数、いいね数を隠す"
+  },
+  "titleShowCalmText": {
+    "message": "ロゴの隣に「おだやか」を表示する"
+  },
+  "titleIsFollowingNumberHidden": {
+    "message": "フォロー中数を隠す"
+  },
+  "titleIsFollowerNumberHidden": {
+    "message": "フォロワー数を隠す"
+  },
+  "titleIsReactionNumberAlwaysHidden": {
+    "message": "カーソルをツイートにのせてもリプライ数、リツイート数、いいね数を隠す"
+  },
+  "titleIsTopicsToFollowHidden": {
+    "message": "おすすめトピックを隠す"
+  },
+  "titleIsWhoToFollowHidden": {
+    "message": "おすすめユーザーを隠す"
+  },
+  "titleIsFontChanged": {
+    "message": "Macで日本語フォントをメイリオからヒラギノに変更"
+  },
+  "titleAdditionalSettings": {
+    "message": "追加設定"
+  },
+  "textCalm": {
+    "message": "おだやか"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "appName": {
+    "message": "Calm Twitter",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "calm-twitter",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "This extension hides trending information from twitter timelines to make your mind calm.",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "Calm Twitter",
+    "description": "The title of the browser action button"
+  },
+  "titleIsExploreHidden": {
+    "message": "Hide explore tab"
+  },
+  "titleIsTrendsHidden": {
+    "message": "Hide trends and who to follow from right column"
+  },
+  "titleIsReactionNumberHidden": {
+    "message": "Hide numbers of replies, retweets, and likes"
+  },
+  "titleShowCalmText": {
+    "message": "Show \"Calm\" next to the logo"
+  },
+  "titleIsFollowingNumberHidden": {
+    "message": "Hide number of following"
+  },
+  "titleIsFollowerNumberHidden": {
+    "message": "Hide number of followers"
+  },
+  "titleIsReactionNumberAlwaysHidden": {
+    "message": "Hide numbers of replies, retweets, and likes when mouse cursor is hovered"
+  },
+  "titleIsTopicsToFollowHidden": {
+    "message": "Hide Topics to follow"
+  },
+  "titleIsWhoToFollowHidden": {
+    "message": "Hide Who to follow"
+  },
+  "titleIsFontChanged": {
+    "message": "Change Japanese font from Meiryo to Hiragino on Mac"
+  },
+  "titleAdditionalSettings": {
+    "message": "Additional settings"
+  },
+  "textCalm": {
+    "message": "Calm"
+  }
+}
